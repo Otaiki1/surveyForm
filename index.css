@@ -1,0 +1,10 @@
+@media (max-width: 768px){
+    .form-container{
+        width: 90%;
+        margin: 0px;
+    }
+    header > #title{
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+}
